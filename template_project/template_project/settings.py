@@ -25,7 +25,7 @@ SECRET_KEY = 'cy9ao7gwa(z^nb2z0y(c%6(iz-2zwy%rqtw4_h_$kb-8w6xtr0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jgleyzes.pythonanywhere.com']
 
 
 # Application definition
